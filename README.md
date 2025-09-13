@@ -6,23 +6,6 @@
 
 Resume
 
-## Graduate Research
-
-I received my M.S. in Computer Science from the University of Arkansas in May 2020.
-
-**Masters Thesis**: [Link](https://scholarworks.uark.edu/etd/3686/)
-
-While I was a graduate student there I worked on many research projects and papers in the following fields:
-- Machine Learning and AI
-- Image and Gesture Recognition
-- Wearable Technologies
-- Embedded Systems
-
-I was also a Teaching Assistant and taught labs for the following courses:
-- Digital Design
-- Programming Foundations I
-- Embedded Systems
-
 ## Hobby Projects
 
 ### SCP-SL Plugins
@@ -61,3 +44,21 @@ So, I overhauled the plugin to use LabApi entirely instead of EXILED for stabili
   - This started as a fork that my friend made so I could fix some bugs.
   - Then I added more features and re-organized the plugin into a Server-Config plugin.
   - Additionally I added a Core plugin that my other plugins can use for commonly shared utility code.
+
+
+## Graduate Research
+
+I received my M.S. in Computer Science from the University of Arkansas in May 2020.
+
+**Masters Thesis**: [Link](https://scholarworks.uark.edu/etd/3686/)
+
+While I was a graduate student there I worked on many research projects and papers in the following fields:
+- Machine Learning and AI
+- Image and Gesture Recognition
+- Wearable Technologies
+- Embedded Systems
+
+I was also a Teaching Assistant and taught labs for the following courses:
+- Digital Design
+- Programming Foundations I
+- Embedded Systems
